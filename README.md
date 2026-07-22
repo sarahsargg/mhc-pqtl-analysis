@@ -2,8 +2,11 @@
 
 ## Citation 
 If you use these data, please cite our work:
+
 **Authors:** Sarah Sarguroh, Sam Morris, Esther Ng, Guillaume Butler-Laporte, Ruth Nanjala, Ling Yang, Zhengming Chen, Iona Y. Millwood, Robin G. Walters, Alexander J. Mentzer, Yang Luo
+
 **Title:** "Multi-ancestry MHC-pQTL mapping reveals disease-linked HLA protein networks and shared genetic architecture"  
+
 **Status:** In preparation
 
 ## Abstract
