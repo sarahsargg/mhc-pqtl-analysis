@@ -8,6 +8,7 @@ If you use these data, please cite our work:
 **Title:** "Multi-ancestry MHC-pQTL mapping reveals disease-linked HLA protein networks and shared genetic architecture"  
 
 **Status:** In Review
+
 **doi:** https://doi.org/10.64898/2026.09.08.26362390
 
 ## Abstract
